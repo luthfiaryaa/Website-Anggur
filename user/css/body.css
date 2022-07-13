@@ -1,0 +1,54 @@
+
+
+#logout{
+	
+    float: right;
+    margin-left: 950px;
+
+}
+
+#atas{
+	width: 100%;
+	height: 80px;
+	background-color: transparent;
+	float: right;
+}
+
+#kiri{
+	width: 49%;
+	height: 400px;
+	background-color: transparent;
+	float: left;
+}
+#kanan{
+	width: 49%;
+	height: 400px;
+	background-color: transparent;
+	float: right;
+}
+
+.h1{
+	color: black;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.h2{
+	color: black;
+	font-size: 10px;
+	text-align: center;
+}
+
+.gbr{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.h3{
+	color: black;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
